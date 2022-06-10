@@ -7,12 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitsilva&layout=compact&hide_border=true&title_color=90b302&text_color=dadada&bg_color=0d1117" />
 </div>
 
+<hr>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jvitsilva&theme=chartreuse-dark&hide_border=true&area=true)
   
   
     
   
-
   
   
 
@@ -27,9 +28,19 @@
    
 
   
-</div align="center"> 
+</div> 
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img alt="João-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jvitsilva}/count.svg" /></p> 
+<br></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282c34&height=120&section=footer"/>
