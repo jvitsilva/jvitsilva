@@ -9,7 +9,10 @@
   <div align="center">
   <a href="https://github.com/jvitsilva">
   <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api?username=jvitsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='480em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitsilva&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+    
+  <div align="center">  
+  <img height="180em" width='450em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
