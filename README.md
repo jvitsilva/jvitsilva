@@ -2,22 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90b302&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JOÃO;TENHO+20+ANOS;SOU+DE+BELÉM,+PA,+BRASIL;ESTUDANTE+DE+ENGENHARIA+DA+COMPUTAÇÃO;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvitsilva&show_icons=true&count_private=true&hide_border=true&title_color=90b302&icon_color=90b302&text_color=dadada&bg_color=0d1117" alt="João Vitor Oliveira da Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitsilva&layout=compact&hide_border=true&title_color=90b302&text_color=dadada&bg_color=0d1117" />
 </div>
 
 
-<div align="center" style="display: inline_block"><br>
-  
-  <img alt="João-C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  
-  <img alt="João-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-            
-          
+
+<div align="center" style="display: inline_block"><br> 
+  <img alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img alt="github" height="50" width="50" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">  
+  <img alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">      
 </div>
 <hr>
+
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jvitsilva&theme=chartreuse-dark&hide_border=true&area=true)
   
