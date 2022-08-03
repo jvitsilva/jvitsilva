@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282c34&height=180&section=header&text=Prazer! João Vitor&fontSize=30&fontColor=90b302&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90b302&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JOÃO;TENHO+20+ANOS;SOU+DE+BELÉM,+PA,+BRASIL;ESTUDANTE+DE+ENGENHARIA+DA+COMPUTAÇÃO;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90b302&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JOÃO;TENHO+20+ANOS;SOU+DE+BELÉM,+PA,+BRASIL;ESTUDANTE+DE+CIENCIA+DA+COMPUTAÇÃO;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 
 
