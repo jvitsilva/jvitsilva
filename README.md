@@ -20,26 +20,16 @@
   <img alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->  
   
 </div>
-<hr>
 
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=jvitsilva&theme=chartreuse-dark&hide_border=true&area=true)
   
-
- 
- <div align="center"> 
- 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
-  
-  <!--<div align="center">
-<img  height="180em" alt="gengar" src="https://giffiles.alphacoders.com/120/120023.gif"/>
-</div>-->
-  
-  <a href="https://instagram.com/vit.silv4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <div align="center">
+<a href="https://instagram.com/vit.silv4"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitsilva900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  
 
 </div> 
 
