@@ -28,11 +28,11 @@
 
 <br>
 
-<p><img align="left" width = 450 src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jvitsilva" /></p>
+<p><img align="left" width = 350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jvitsilva" /></p>
 
-<p>&nbsp;<img align="center" width = 500 src="https://github-readme-stats.vercel.app/api?username=jvitsilva&show_icons=true&theme=tokyonight&locale=en" alt="jvitsilva" /></p>
+<p>&nbsp;<img align="center" width = 400 src="https://github-readme-stats.vercel.app/api?username=jvitsilva&show_icons=true&theme=tokyonight&locale=en" alt="jvitsilva" /></p>
 
-<p><img align="center" width = 600 src="https://github-readme-streak-stats.herokuapp.com/?user=jvitsilva&theme=tokyonight" alt="jvitsilva" /></p>
+<p><img align="center" width = 500 src="https://github-readme-streak-stats.herokuapp.com/?user=jvitsilva&theme=tokyonight" alt="jvitsilva" /></p>
 
 
 
