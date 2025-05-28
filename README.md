@@ -85,7 +85,5 @@ Olá! Sou graduando em Ciência da Computação, apaixonado por **programação*
 ---
 
 <div align="center">
-  Made with ❤️ and ☕  
-  <br>
   <sub>Última atualização: Maio, 2025</sub>
 </div>
