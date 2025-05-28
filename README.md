@@ -11,7 +11,6 @@
   </p>
 
   <h1>👋 Olá, eu sou João Vitor Silva</h1>
-  <p>Entusiasta de <strong>Desenvolvimento</strong></p>
   <p>
     📫 <a href="mailto:vitsilva900@gmail.com">vitsilva900@gmail.com</a> &nbsp; | &nbsp;
     <a href="https://www.linkedin.com/in/jvosilva/" target="_blank">LinkedIn</a> &nbsp; 
@@ -26,7 +25,7 @@
   
 Olá! Sou graduando em Ciência da Computação, apaixonado por **programação** e tecnologia.  
 - 🎓 Em formação: Ciência da Computação  
-- 🌱 Aprendendo: Python, Organização de código, GitFlow, TypeScript com HTML+CSS, Machine Learning 
+- 🌱 Aprendendo: Python, Organização de código, GitFlow, TypeScript com HTML+CSS, Docker, Machine Learning 
 - 💡 Interesses: Desenvolvimento, Inteligência Artificial
 - ⚙️ Ferramentas favoritas: Java, Python, PostgreSQL, Github Desktop  
 
@@ -41,13 +40,13 @@ Olá! Sou graduando em Ciência da Computação, apaixonado por **programação*
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white" alt="Java"/>
+
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
   <!-- Data & Tools -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
