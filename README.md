@@ -12,8 +12,7 @@
 
   <h1>👋 Olá, eu sou João Vitor Silva</h1>
   <p>
-    📫 <a href="mailto:vitsilva900@gmail.com" target="_blank">e-mail</a> &nbsp; | &nbsp;
-    <a href="https://www.linkedin.com/in/jvosilva/" target="_blank">LinkedIn</a> &nbsp; 
+    📫 vitsilva900@gmail.com
   </p>
 </div>
 
