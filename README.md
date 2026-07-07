@@ -1,79 +1,75 @@
-<!-- ================== HEADER ================== -->
 <div align="center">
-  <p align="center">
-    <img
-      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-      alt="Coding"
-      width="100%"
-      height="250px"
-      style="object-fit:cover;"
-    />
-  </p>
-
-  <h1>👋 Olá, eu sou João Vitor Silva</h1>
-  <p>
-    📫 vitsilva900@gmail.com
-  </p>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="Coding"
+    width="100%"
+    height="250px"
+    style="object-fit:cover;"
+  />
 </div>
 
----
-
-<!-- ================== ABOUT ================== -->
-<details open>
-<summary>🚀 Sobre Mim</summary>
-  
-Olá! Sou graduando em Ciência da Computação, apaixonado por **programação** e tecnologia.  
-- 🎓 Em formação: Ciência da Computação  
-- 🌱 Aprendendo: Python, Organização de código, GitFlow, TypeScript com HTML+CSS, Docker, Machine Learning 
-- 💡 Interesses: Desenvolvimento, Inteligência Artificial
-- ⚙️ Ferramentas favoritas: Java, Python, PostgreSQL, Github Desktop  
-
-</details>
-
----
-
-<!-- ================== SKILLS ================== -->
-<details open>
-<summary>🛠️ Habilidades Técnicas</summary>
-  
-<br>
-  
-[![My Skills](https://skillicons.dev/icons?i=java,py,postgres,ts,html,css,git,github,vscode)](https://skillicons.dev)
-
-
-</details>
-
----
-
-<!-- ================== GITHUB STATS ================== -->
-<details>
-<summary>📈 Minhas Estatísticas no GitHub</summary>
+<h1 align="center">João Vitor Silva</h1>
+<h3 align="center">Desenvolvedor Fullstack · Node.js · TypeScript · Python</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvitsilva&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitsilva&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <a href="mailto:vitsilva900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vitsilva900%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jvosilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-jvosilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-</details>
+<br>
 
----
+## Sobre
 
-<!-- ================== PROJECTS ================== -->
-<details>
-<summary>💼 Projetos em Destaque</summary>
+Desenvolvedor fullstack com experiência em Python, Node.js, TypeScript e Angular em projetos reais de pesquisa e dados.
 
-| Projeto                       | Descrição                                | Tech Stack                             |
-|-------------------------------|------------------------------------------|----------------------------------------|
-| **SpringBoot-API**            | API REST para gerenciamento de dados     | Java · Spring Boot · PostgreSQL        |
-| **DS-Portfolio**              | Conjunto de notebooks e dashboards       | Python · Pandas · Matplotlib           |
-| **RPG-Fallout**               | Uma paródia de RPG da saga Fallout       | linguagem  C                           |
+- 🎓 Graduando em Ciência da Computação — conclusão em jun/2026
+- 🗣️ Inglês avançado
 
-[👉 Veja todos os meus repositórios](https://github.com/jvitsilva)  
+<br>
 
-</details>
+## Stack
+ 
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Linguagens</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,py" alt="Linguagens"/>
+    </td>
+    <td align="center">
+      <strong>Frameworks &amp; Dados</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,angular,flask,postgres" alt="Frameworks"/>
+    </td>
+    <td align="center">
+      <strong>DevOps &amp; Ferramentas</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode" alt="DevOps"/>
+    </td>
+  </tr>
+</table>
+<br>
 
----
+## Experiência em destaque
+
+**Instituto Tecnológico Vale** — Inteligência Ambiental · *Estágio*
+- Desenvolvi ferramenta web para visualização dinâmica de coautorias entre grupos de pesquisa do instituto, usando grafos interativos
+- Auxiliei no desenvolvimento e manutenção da ferramenta de anotação de metadados para o projeto DataLake institucional
+- Desenvolvi um programa web para visualização e análise das áreas Vale geradas com métricas
+- Criei ferramenta em Python para análise e classificação de repositórios GitHub, com dashboards em PowerBI para visualização dos resultados
+
+<br>
+
+
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvitsilva&theme=tokyo-night" alt="Activity Graph" width="90%"/>
+</p>
+<br>
 
 <div align="center">
-  <sub>Última atualização: Maio, 2025</sub>
+  <sub>Última atualização: Julho, 2026</sub>
 </div>
