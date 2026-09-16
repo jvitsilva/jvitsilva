@@ -10,49 +10,38 @@
   <h1>João Oliveira</h1>
 
   <p>
-    Desenvolvedor de Software com foco em Fullstack moderno
+    Desenvolvedor Fullstack com foco em Node.js | TypeScript | React.js
   </p>
 
-  <p>
-    <a href="mailto:vitsilva900@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vitsilva900%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/jvosilva/">
-      <img src="https://img.shields.io/badge/LinkedIn-jvosilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<a href="mailto:vitsilva900@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vitsilva900%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/jvosilva/">
+  <img src="https://img.shields.io/badge/LinkedIn-jvosilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
-## Sobre mim
+<br/>
 
-Sou desenvolvedor de software com experiência prática na construção e manutenção de aplicações web, automação e análise de dados. Tenho direcionado meus estudos e projetos para o ecossistema **Backend**, desenhando soluções robustas e escaláveis.
+### Sobre
 
--  Formado em **Ciência da Computação**.
--  **Foco atual:** Arquitetura de software, frameworks modernos (Express, React) e modelagem de dados (PostgreSQL, Prisma). 
--  **Idiomas:** Inglês técnico.
+Formado em Ciência da Computação, em transição para Florianópolis e buscando minha primeira vaga como desenvolvedor **júnior/pleno**, presencial. Meu foco de estudo está em **arquitetura de backend** — APIs REST, modelagem de dados e boas práticas de código (Clean Architecture, SOLID) — sem abrir mão do fullstack quando o projeto pede.
 
-## Tecnologias e Ferramentas
+Gosto de entender o "porquê" por trás de uma solução antes de escrever a primeira linha, e prefiro projetos onde dá pra ver o resultado rodando de ponta a ponta.
+
+<br/>
+
+### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,react,angular,flask,postgres,docker,azure,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,py,flask,postgres,docker,azure,git,github,vscode" alt="Tech Stack" />
 </div>
 
-## Experiência Profissional
+<br/>
 
-### Instituto Tecnológico Vale
-**Inteligência Ambiental | Estágio em Desenvolvimento de Software**
-
-- Desenvolvi e mantive aplicações web utilizando Python, Flask, TypeScript, Node.js e Angular, com foco
-em ferramentas internas de pesquisa e dados.
-- Construí ferramenta web para visualização dinâmica de coautorias entre grupos de pesquisa, usando
-grafos interativos.
-- Desenvolvi e mantive sistema de anotação de metadados para o projeto institucional de Data Lake.
-- Criei ferramenta em Python para avaliação, recuperação e classificação automática de repositórios
-GitHub do instituto, padronizando a organização de código.
-- Desenvolvi aplicação web para visualização e análise de áreas Vale com métricas do projeto Biolink
-
----
-
+<div align="center">
+  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+</div>
