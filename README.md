@@ -1,47 +1,59 @@
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Animação sobre programação"
-    width="100%"
-    height="250px"
-    style="object-fit: cover;"
-  />
+<h1 align="center">João Oliveira</h1>
+<p align="center">
+  Desenvolvedor Full-Stack - Node.js · TypeScript · React · Python
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/jvosilva"><img src="https://img.shields.io/badge/LinkedIn-jvosilva-0077B5?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/jvitsilva"><img src="https://img.shields.io/badge/GitHub-jvitsilva-181717?style=flat&logo=github" /></a>
+</p>
 
-  <h1>João Oliveira</h1>
+---
 
-  <p>
-    Desenvolvedor Fullstack com foco em Node.js | TypeScript | React.js
-  </p>
+## Sobre
 
-<a href="mailto:vitsilva900@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vitsilva900%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/jvosilva/">
-  <img src="https://img.shields.io/badge/LinkedIn-jvosilva-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+Desenvolvedor Full-stack formado em Ciência da Computação com experiência no desenvolvimento e manutenção de aplicações web e fullstack.
+Atuação com Node.js, TypeScript, Python, Flask e React, construindo ferramentas de pesquisa, visualização de dados, gestão de metadados e automação de processos. Experiência com APIs REST, PostgreSQL, Docker, Microsoft Azure e interesses em práticas como  testes automatizados, Clean Architecture e SOLID.
 
-</div>
+---
 
-<br/>
+## Stack
 
-### Sobre
+**Backend**:   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+ 
+**Frontend**:  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+ 
+**Banco de dados**:  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+ 
+**Ferramentas**:  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+ 
+---
 
-Formado em Ciência da Computação, em transição para Florianópolis e buscando minha primeira vaga como desenvolvedor **júnior/pleno**, presencial. Meu foco de estudo está em **arquitetura de backend** — APIs REST, modelagem de dados e boas práticas de código (Clean Architecture, SOLID) — sem abrir mão do fullstack quando o projeto pede.
+## Experiência
 
-Gosto de entender o "porquê" por trás de uma solução antes de escrever a primeira linha, e prefiro projetos onde dá pra ver o resultado rodando de ponta a ponta.
+Projetos desenvolvidos e contribuições durante estágio no Instituto Tecnológico Vale:
 
-<br/>
+#### Anotador de metadados - Data Lake
 
-### Stack
+Desenvolvimento e manutenção de ferramenta web com o objetivo de anotação e rastreabilidade de metadados dos Assets presentes na base de dados do instituto. Fortes contribuições por todo o projeto e implementação de sistema de permissões Azure para usuários.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,py,flask,postgres,docker,azure,git,github,vscode" alt="Tech Stack" />
-</div>
+Stack: Python, Flask, Typescript, React, PostgreSQL.
 
-<br/>
+#### VisColab - Indicador de Colaboração do ITV
+Desenvolvi este projeto como uma aplicação web interativa com grafos para visualizar redes de coautoria entre pesquisadores através de artigos de pesquisa. Ele gera e exibe grafos com filtros dinâmicos, layouts por métricas e gráficos auxiliares para análise de dados. 
 
-<div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+Stack: Node.js, Python, Flask, Vite, Sigma.js, Graphology.
 
-</div>
+#### ECOs-MARBio
+Aplicação web para visualização e análise de áreas da Vale a partir de métricas do projeto Biolink/Vale utilizando Python com a lib Streamlit.
+
